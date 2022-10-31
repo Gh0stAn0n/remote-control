@@ -49,7 +49,8 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 launch the script by typing:
 
-![pic](https://user-images.githubusercontent.com/102325071/198983507-77c057d2-b38b-4f84-aacb-9a4db02a1215.png)
+![pic](https://user-images.githubusercontent.com/102325071/199060394-f54341b5-aeff-4317-ab45-efdb329ca70a.png)
+
 
 -h (stand for help) for more info about the flags option.
 
