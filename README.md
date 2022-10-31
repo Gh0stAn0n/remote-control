@@ -59,6 +59,4 @@ from github:
 
 or
 
-from ZIP file:
-
-   [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9900001/remote.control.zip)
+from [zip](https://github.com/gh0st-anonymous/remote-control/files/9900001/remote.control.zip) file
