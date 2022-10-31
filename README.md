@@ -55,7 +55,7 @@ just launch the script by typing:
 
 ### Download
 
-from github: https://github.com/gh0st-anonymous/remote-control
+from github: git clone https://github.com/gh0st-anonymous/remote-control
 
 or
 
