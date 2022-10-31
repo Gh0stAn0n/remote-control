@@ -53,8 +53,12 @@ just launch the script by typing:
 
 ### Download
 
-from github: git clone https://github.com/gh0st-anonymous/remote-control
+from github: 
+
+    > git clone https://github.com/gh0st-anonymous/remote-control
 
 or
 
-from ZIP file: [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9900001/remote.control.zip)
+from ZIP file:
+
+    > [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9900001/remote.control.zip)
