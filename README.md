@@ -53,8 +53,8 @@ just launch the script by typing:
      or
      > sudo ./script-name
 
-### Download
+### Download ###
 
      > https://github.com/gh0st-anonymous/remote-control
      or
-   [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9899980/remote.control.zip)
+     > [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9899980/remote.control.zip)
