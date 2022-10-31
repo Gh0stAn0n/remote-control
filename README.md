@@ -55,6 +55,8 @@ just launch the script by typing:
 
 ### Download ###
 
-     > https://github.com/gh0st-anonymous/remote-control
-     or
-     > [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9899980/remote.control.zip)
+https://github.com/gh0st-anonymous/remote-control
+
+or
+
+[remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9900001/remote.control.zip)
