@@ -53,7 +53,7 @@ launch the script by typing:
 
 -h (stand for help) for more info about the flags option.
 
--I (stand for Info) for more info about the script.
+-i (stand for info) for more info about the script.
 
 ### Download
 
