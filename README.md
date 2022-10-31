@@ -49,9 +49,7 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 just launch the script by typing:
 
-     > sudo bash script-name
-     or
-     > sudo ./script-name
+![pic](https://user-images.githubusercontent.com/102325071/198983507-77c057d2-b38b-4f84-aacb-9a4db02a1215.png)
 
 ### Download
 
