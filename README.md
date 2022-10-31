@@ -38,4 +38,4 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 just launch the script by typing:
 
-![pic](https://user-images.githubusercontent.com/102325071/198947507-ada21fec-38aa-479e-8250-fc63bb60d0a9.png)
+![pic](https://user-images.githubusercontent.com/102325071/198970600-7e97f9da-5704-4b2c-b831-8240417b6b5f.png)
