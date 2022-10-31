@@ -49,10 +49,12 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 just launch the script by typing:
 
-![pic](https://user-images.githubusercontent.com/102325071/198970600-7e97f9da-5704-4b2c-b831-8240417b6b5f.png)
+     > sudo bash script-name
+     or
+     > sudo ./script-name
 
 ### Download
 
      > https://github.com/gh0st-anonymous/remote-control
      or
-     > [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9899980/remote.control.zip)
+   [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9899980/remote.control.zip)
