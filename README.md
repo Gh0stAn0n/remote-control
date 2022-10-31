@@ -31,7 +31,7 @@ nipe, nmap, whois and curl.
 
 > DISADVANTAGES:
 
-- nipe could fail, restart manually or restart the computer.
+- nipe could fail, restart manually or restart the computer connection.
 
 
 ### 'remote-control' Project
