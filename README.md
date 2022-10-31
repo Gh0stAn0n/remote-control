@@ -23,9 +23,9 @@ nipe, nmap, whois and curl.
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- easy to use since explanations are written. ([sudo] bash  / ./remote-control -I)
+- use -i for info, for the script resume, [sudo] bash  / ./analyzer -i
 
-- if you need help for the script usage, type [sudo] bash  / ./remote-control -h, for more details about the options.
+- use -h for help, for the script usage, type [sudo] bash  / ./analyzer -h
 
 - help and info menu doesn't require sudo privileges.
 
@@ -47,11 +47,11 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 ### Script Usage
 
-just launch the script by typing:
+launch the script by typing:
 
 ![pic](https://user-images.githubusercontent.com/102325071/198983507-77c057d2-b38b-4f84-aacb-9a4db02a1215.png)
 
--h (stand for help) for more flags options.
+-h (stand for help) for more info about the flags option.
 
 -I (stand for Info) for more info about the script.
 
