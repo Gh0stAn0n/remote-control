@@ -53,10 +53,10 @@ just launch the script by typing:
      or
      > sudo ./script-name
 
-### Download ###
+### Download
 
-https://github.com/gh0st-anonymous/remote-control
+from github: https://github.com/gh0st-anonymous/remote-control
 
 or
 
-[remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9900001/remote.control.zip)
+from ZIP file: [remote control.zip](https://github.com/gh0st-anonymous/remote-control/files/9900001/remote.control.zip)
