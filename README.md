@@ -31,7 +31,7 @@ remote-control is a bash script that create an anonymous environment using a VPN
 
 > DISADVANTAGES:
 
-- nipe could fail.
+- nipe could fail to start or show status.
 
 ### 'remote-control' Project
 
