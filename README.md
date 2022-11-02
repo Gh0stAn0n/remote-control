@@ -23,9 +23,9 @@ remote-control is a bash script that create an anonymous environment using a VPN
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- use -i for info, for the script resume, type [sudo] bash  / ./remote-control -i
+- use -i for info for the script resume, type [sudo] bash  / ./remote-control -i
 
-- use -h for help, for the script usage, type [sudo] bash  / ./remote-control -h
+- use -h for help for the script usage, type [sudo] bash  / ./remote-control -h
 
 - help and info menu doesn't require sudo privileges.
 
