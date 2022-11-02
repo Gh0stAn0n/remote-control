@@ -44,7 +44,7 @@ STOP='\e[0m'
 #$1 is the alias of the first input
 #help menu
 
-	if [[ $1 = -I || $1 = --info ]]
+	if [[ $1 = -i || $1 = --info ]]
 	then
 		clear
 		sleep 0.5
