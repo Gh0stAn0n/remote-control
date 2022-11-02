@@ -58,6 +58,6 @@ launch the script by typing:
 
 ### Download
 
-from [zip](https://github.com/gh0st-anonymous/remote-control/files/9900001/remote.control.zip) file or from github: 
+from [zip](https://github.com/gh0st-anonymous/remote-control/files/9916813/remote.control.zip) file or from github: 
 
     git clone https://github.com/gh0st-anonymous/remote-control
