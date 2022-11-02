@@ -13,7 +13,7 @@
 
 remote-control is a bash script that create an anonymous environment, (using a VPN) that conduct scans on a target IP address and can access your logs securely via ssh, telnet, ftp using:
 
-[nipe](https://github.com/htrgouvea/nipe), [nmap](https://www.kali.org/tools/nmap/), [whois](https://www.kali.org/tools/whois/) and [curl](https://linuxhint.com/linux-curl-command/).
+[nipe](https://github.com/htrgouvea/nipe), [nmap](https://www.kali.org/tools/nmap/), [whois](https://www.kali.org/tools/whois/) and [curl](https://github.com/curl/curl).
 
 ### Possibility and Capability
 
