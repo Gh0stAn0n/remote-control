@@ -31,9 +31,7 @@ nipe, nmap, whois and curl.
 
 > DISADVANTAGES:
 
-- nipe could fail, restart manually or restart the computer connection.
-
-for more info about [nipe.](https://github.com/htrgouvea/nipe)
+- nipe could fail, restart manually or restart the computer connection. (about [nipe.](https://github.com/htrgouvea/nipe))
 
 ### 'remote-control' Project
 
