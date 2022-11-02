@@ -31,11 +31,11 @@ nipe, nmap, whois and curl.
 
 > DISADVANTAGES:
 
-- nipe could fail, restart manually or restart the computer connection - what is [nipe](https://github.com/htrgouvea/nipe)?
+- nipe could fail, restart manually or restart the computer connection - what is [nipe](https://github.com/htrgouvea/nipe) ?
 
 ### 'remote-control' Project
 
-a [project](https://github.com/gh0st-anonymous/remote-control/files/9871434/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
+a [project](https://github.com/gh0st-anonymous/remote-control/files/9871434/project.pdf) made by [ThinkCyber](https://www.thinkcyber.co.il/).
 
 
 ### Video Demonstration
