@@ -33,7 +33,7 @@ nipe, nmap, whois and curl.
 
 - nipe could fail, restart manually or restart the computer connection.
 
-for more info about nipe: https://github.com/htrgouvea/nipe
+for more info about [nipe.](https://github.com/htrgouvea/nipe)
 
 ### 'remote-control' Project
 
