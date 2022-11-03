@@ -141,7 +141,8 @@ function ROOT()
 
 		else
 
-	        pwd=$(locate anon.png)
+		sudo updatedb
+	        pwd=$(locate anon.png | head -1)
         	sleep 2
 
        		echo "" ; echo ""
