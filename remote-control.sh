@@ -11,7 +11,7 @@
 # Tested on : Kali Linux
 # I highly recommend using this tool on Kali Linux OS
 #
-# More Info : https://github.com/gh0st-anonymous
+# More Info : https://github.com/Gh0stAn0n
 #
 # Remember To Use For Educational Purpose only
 # Im Not Responsible Of Anything That Might Happen
@@ -92,7 +92,7 @@ STOP='\e[0m'
 		echo ""
                 echo ""
                 sleep 2
-                echo -e " - dont forget going to ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+                echo -e " - dont forget going to ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
                 sleep 1
                 echo ""
                 exit
@@ -136,7 +136,7 @@ function ROOT()
 		then
 		sleep 3
 		echo ""
-		echo -e "${RED}[i]${STOP} session aborted - dont forget going to: ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+		echo -e "${RED}[i]${STOP} session aborted - dont forget going to: ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
 		exit
 
 		else
@@ -374,7 +374,7 @@ function VPN()
 		elif [[ $answer = NO || $answer = No || $answer = no || $answer = n || $answer = N ]]
 		then
 		echo ""
-		echo -e " - dont forget going to: ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+		echo -e " - dont forget going to: ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
 		sleep 3
 		exit
 
@@ -556,7 +556,7 @@ function LOOP ()
 	if [[ $press = X || $press = x ]]
 	then
 	echo ""
-	echo -e " - dont forget going to: ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+	echo -e " - dont forget going to: ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
         sleep 3
         exit
 
@@ -585,7 +585,7 @@ function LOOP ()
                         elif [[ $answer = NO || $answer = No || $answer = no || $answer = n || $answer = N ]]
 			then
 			echo ""
-                        echo -e " - dont forget going to: ${RED}https://github.com/gh0st-anonymous${STOP} for more content."
+                        echo -e " - dont forget going to: ${RED}https://github.com/Gh0stAn0n${STOP} for more content."
                         sleep 3
                         exit
 
