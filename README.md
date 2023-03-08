@@ -2,7 +2,7 @@
 
 <p align="center">
    </a>
-      <a href="https://github.com/gh0st-anonymous/analyzer">
+      <a href="https://github.com/Gh0stAn0n/analyzer">
       <img src="https://img.shields.io/badge/Version-1.0.0-darkgreen">
         <img src="https://img.shields.io/badge/Release%20Date-march%202022-purple">
   <img src="https://shields.io/badge/Bash-100%25-066da5">
@@ -35,7 +35,7 @@ remote-control is a bash script that create an anonymous environment using a VPN
 
 ### 'remote-control' Project
 
-a [project](https://github.com/gh0st-anonymous/remote-control/files/9871434/project.pdf) made by [ThinkCyber](https://www.thinkcyber.co.il/).
+a [project](https://github.com/Gh0stAn0n/remote-control/files/9871434/project.pdf) made by [ThinkCyber](https://www.thinkcyber.co.il/).
 
 
 ### Video Demonstration
@@ -56,6 +56,6 @@ launch the script by typing:
 
 ### Download
 
-from [zip](https://github.com/gh0st-anonymous/remote-control/files/9917349/remote.control.zip) file or from github: 
+from [zip](https://github.com/Gh0stAn0n/remote-control/files/9917349/remote.control.zip) file or from github: 
 
-    git clone https://github.com/gh0st-anonymous/remote-control
+    git clone https://github.com/Gh0stAn0n/remote-control
