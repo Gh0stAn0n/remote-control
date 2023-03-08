@@ -19,15 +19,11 @@ remote-control is a bash script that create an anonymous environment using a VPN
 
 > ADVANTAGES:
 
+- help and info menu doesn't require sudo privileges.
+
 - check for every errors possible. (correct answers as input, if the VPN is truly active or if he failed)
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
-
-- use -i for info for the script resume, type [sudo] bash  / ./remote-control -i
-
-- use -h for help for the script usage, type [sudo] bash  / ./remote-control -h
-
-- help and info menu doesn't require sudo privileges.
 
 > DISADVANTAGES:
 
@@ -48,7 +44,9 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 launch the script by typing:
 
-![pic](https://user-images.githubusercontent.com/102325071/199060394-f54341b5-aeff-4317-ab45-efdb329ca70a.png)
+└─$ sudo bash remote-control.sh
+
+└─$ sudo ./remote-control
 
 -h (stand for help) for more info about the flags option.
 
