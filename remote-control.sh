@@ -324,7 +324,7 @@ cl="$(sudo perl nipe.pl status | head -2 | tail -1 | cut -d" " -f3 | cut -d "." 
 	echo -e "${ORANGE}[i]${STOP} connection must be secured to get access granted."
 	echo ""
 
-		if [[ $vpn = "[!] ERROR: sorry, it was not possible to establish a connection to the server." ]]
+		if [[ $vpn = *ERROR* ]]
 		then
 		echo -e " - VPN status:${LORANGE} $vpn ${STOP}"
 		echo ""
